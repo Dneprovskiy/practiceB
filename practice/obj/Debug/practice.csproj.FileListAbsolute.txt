@@ -1,0 +1,65 @@
+F:\Downloads\popovms 2\popovms\bin\Debug\popovms.exe.config
+F:\Downloads\popovms 2\popovms\bin\Debug\popovms.exe
+F:\Downloads\popovms 2\popovms\bin\Debug\popovms.pdb
+F:\Downloads\popovms 2\popovms\bin\Debug\EntityFramework.dll
+F:\Downloads\popovms 2\popovms\bin\Debug\EntityFramework.SqlServer.dll
+F:\Downloads\popovms 2\popovms\bin\Debug\EntityFramework.xml
+F:\Downloads\popovms 2\popovms\bin\Debug\EntityFramework.SqlServer.xml
+F:\Downloads\popovms 2\popovms\bin\Debug\ru\EntityFramework.resources.dll
+F:\Downloads\popovms 2\popovms\obj\Debug\practice.csproj.AssemblyReference.cache
+F:\Downloads\popovms 2\popovms\obj\Debug\addclient.g.cs
+F:\Downloads\popovms 2\popovms\obj\Debug\admin.g.cs
+F:\Downloads\popovms 2\popovms\obj\Debug\MainWindow.g.cs
+F:\Downloads\popovms 2\popovms\obj\Debug\Order.g.cs
+F:\Downloads\popovms 2\popovms\obj\Debug\App.g.cs
+F:\Downloads\popovms 2\popovms\obj\Debug\popovms_Content.g.cs
+F:\Downloads\popovms 2\popovms\obj\Debug\popovms_MarkupCompile.cache
+F:\Downloads\popovms 2\popovms\obj\Debug\popovms_MarkupCompile.lref
+F:\Downloads\popovms 2\popovms\obj\Debug\addclient.baml
+F:\Downloads\popovms 2\popovms\obj\Debug\admin.baml
+F:\Downloads\popovms 2\popovms\obj\Debug\MainWindow.baml
+F:\Downloads\popovms 2\popovms\obj\Debug\Order.baml
+F:\Downloads\popovms 2\popovms\obj\Debug\popovms.g.resources
+F:\Downloads\popovms 2\popovms\obj\Debug\popovms.Properties.Resources.resources
+F:\Downloads\popovms 2\popovms\obj\Debug\practice.csproj.GenerateResource.cache
+F:\Downloads\popovms 2\popovms\obj\Debug\practice.csproj.CoreCompileInputs.cache
+F:\Downloads\popovms 2\popovms\obj\Debug\practice.csproj.Up2Date
+F:\Downloads\popovms 2\popovms\obj\Debug\popovms.exe
+F:\Downloads\popovms 2\popovms\obj\Debug\popovms.pdb
+F:\Downloads\practice\popovms\obj\Debug\practice.csproj.AssemblyReference.cache
+F:\Downloads\practice\popovms\obj\Debug\addclient.g.cs
+F:\Downloads\practice\popovms\obj\Debug\admin.g.cs
+F:\Downloads\practice\popovms\obj\Debug\MainWindow.g.cs
+F:\Downloads\practice\popovms\obj\Debug\Order.g.cs
+F:\Downloads\practice\popovms\obj\Debug\App.g.cs
+F:\Downloads\practice\popovms\obj\Debug\practice_Content.g.cs
+F:\Downloads\practice\popovms\obj\Debug\practice_MarkupCompile.cache
+F:\Downloads\practice\popovms\obj\Debug\practice_MarkupCompile.lref
+F:\Downloads\practice\practice\bin\Debug\popovms.exe.config
+F:\Downloads\practice\practice\bin\Debug\popovms.exe
+F:\Downloads\practice\practice\bin\Debug\popovms.pdb
+F:\Downloads\practice\practice\bin\Debug\EntityFramework.dll
+F:\Downloads\practice\practice\bin\Debug\EntityFramework.SqlServer.dll
+F:\Downloads\practice\practice\bin\Debug\EntityFramework.xml
+F:\Downloads\practice\practice\bin\Debug\EntityFramework.SqlServer.xml
+F:\Downloads\practice\practice\bin\Debug\ru\EntityFramework.resources.dll
+F:\Downloads\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+F:\Downloads\practice\practice\obj\Debug\addclient.g.cs
+F:\Downloads\practice\practice\obj\Debug\admin.g.cs
+F:\Downloads\practice\practice\obj\Debug\MainWindow.g.cs
+F:\Downloads\practice\practice\obj\Debug\Order.g.cs
+F:\Downloads\practice\practice\obj\Debug\App.g.cs
+F:\Downloads\practice\practice\obj\Debug\popovms_Content.g.cs
+F:\Downloads\practice\practice\obj\Debug\popovms_MarkupCompile.cache
+F:\Downloads\practice\practice\obj\Debug\popovms_MarkupCompile.lref
+F:\Downloads\practice\practice\obj\Debug\addclient.baml
+F:\Downloads\practice\practice\obj\Debug\admin.baml
+F:\Downloads\practice\practice\obj\Debug\MainWindow.baml
+F:\Downloads\practice\practice\obj\Debug\Order.baml
+F:\Downloads\practice\practice\obj\Debug\popovms.g.resources
+F:\Downloads\practice\practice\obj\Debug\popovms.Properties.Resources.resources
+F:\Downloads\practice\practice\obj\Debug\practice.csproj.GenerateResource.cache
+F:\Downloads\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+F:\Downloads\practice\practice\obj\Debug\practice.csproj.Up2Date
+F:\Downloads\practice\practice\obj\Debug\popovms.exe
+F:\Downloads\practice\practice\obj\Debug\popovms.pdb
